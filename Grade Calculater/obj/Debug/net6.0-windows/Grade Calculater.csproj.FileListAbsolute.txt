@@ -1,0 +1,33 @@
+C:\Users\ASUS\Desktop\Grade Calculater\Grade Calculater\bin\Debug\net6.0-windows\Grade Calculater.exe
+C:\Users\ASUS\Desktop\Grade Calculater\Grade Calculater\bin\Debug\net6.0-windows\Grade Calculater.deps.json
+C:\Users\ASUS\Desktop\Grade Calculater\Grade Calculater\bin\Debug\net6.0-windows\Grade Calculater.runtimeconfig.json
+C:\Users\ASUS\Desktop\Grade Calculater\Grade Calculater\bin\Debug\net6.0-windows\Grade Calculater.dll
+C:\Users\ASUS\Desktop\Grade Calculater\Grade Calculater\bin\Debug\net6.0-windows\Grade Calculater.pdb
+C:\Users\ASUS\Desktop\Grade Calculater\Grade Calculater\obj\Debug\net6.0-windows\Grade Calculater.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Grade Calculater\Grade Calculater\obj\Debug\net6.0-windows\Grade_Calculater.Form1.resources
+C:\Users\ASUS\Desktop\Grade Calculater\Grade Calculater\obj\Debug\net6.0-windows\Grade Calculater.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Grade Calculater\Grade Calculater\obj\Debug\net6.0-windows\Grade Calculater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Grade Calculater\Grade Calculater\obj\Debug\net6.0-windows\Grade Calculater.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Grade Calculater\Grade Calculater\obj\Debug\net6.0-windows\Grade Calculater.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Grade Calculater\Grade Calculater\obj\Debug\net6.0-windows\Grade Calculater.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Grade Calculater\Grade Calculater\obj\Debug\net6.0-windows\Grade Calculater.dll
+C:\Users\ASUS\Desktop\Grade Calculater\Grade Calculater\obj\Debug\net6.0-windows\refint\Grade Calculater.dll
+C:\Users\ASUS\Desktop\Grade Calculater\Grade Calculater\obj\Debug\net6.0-windows\Grade Calculater.pdb
+C:\Users\ASUS\Desktop\Grade Calculater\Grade Calculater\obj\Debug\net6.0-windows\Grade Calculater.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Grade Calculater\Grade Calculater\obj\Debug\net6.0-windows\ref\Grade Calculater.dll
+D:\.HND\1st Sem\++Subjects\Visual Application Programming\Projects\Project\Grade Calculater\Grade Calculater\bin\Debug\net6.0-windows\Grade Calculater.exe
+D:\.HND\1st Sem\++Subjects\Visual Application Programming\Projects\Project\Grade Calculater\Grade Calculater\bin\Debug\net6.0-windows\Grade Calculater.deps.json
+D:\.HND\1st Sem\++Subjects\Visual Application Programming\Projects\Project\Grade Calculater\Grade Calculater\bin\Debug\net6.0-windows\Grade Calculater.runtimeconfig.json
+D:\.HND\1st Sem\++Subjects\Visual Application Programming\Projects\Project\Grade Calculater\Grade Calculater\bin\Debug\net6.0-windows\Grade Calculater.dll
+D:\.HND\1st Sem\++Subjects\Visual Application Programming\Projects\Project\Grade Calculater\Grade Calculater\bin\Debug\net6.0-windows\Grade Calculater.pdb
+D:\.HND\1st Sem\++Subjects\Visual Application Programming\Projects\Project\Grade Calculater\Grade Calculater\obj\Debug\net6.0-windows\Grade_Calculater.Form1.resources
+D:\.HND\1st Sem\++Subjects\Visual Application Programming\Projects\Project\Grade Calculater\Grade Calculater\obj\Debug\net6.0-windows\Grade Calculater.csproj.GenerateResource.cache
+D:\.HND\1st Sem\++Subjects\Visual Application Programming\Projects\Project\Grade Calculater\Grade Calculater\obj\Debug\net6.0-windows\Grade Calculater.GeneratedMSBuildEditorConfig.editorconfig
+D:\.HND\1st Sem\++Subjects\Visual Application Programming\Projects\Project\Grade Calculater\Grade Calculater\obj\Debug\net6.0-windows\Grade Calculater.AssemblyInfoInputs.cache
+D:\.HND\1st Sem\++Subjects\Visual Application Programming\Projects\Project\Grade Calculater\Grade Calculater\obj\Debug\net6.0-windows\Grade Calculater.AssemblyInfo.cs
+D:\.HND\1st Sem\++Subjects\Visual Application Programming\Projects\Project\Grade Calculater\Grade Calculater\obj\Debug\net6.0-windows\Grade Calculater.csproj.CoreCompileInputs.cache
+D:\.HND\1st Sem\++Subjects\Visual Application Programming\Projects\Project\Grade Calculater\Grade Calculater\obj\Debug\net6.0-windows\Grade Calculater.dll
+D:\.HND\1st Sem\++Subjects\Visual Application Programming\Projects\Project\Grade Calculater\Grade Calculater\obj\Debug\net6.0-windows\refint\Grade Calculater.dll
+D:\.HND\1st Sem\++Subjects\Visual Application Programming\Projects\Project\Grade Calculater\Grade Calculater\obj\Debug\net6.0-windows\Grade Calculater.pdb
+D:\.HND\1st Sem\++Subjects\Visual Application Programming\Projects\Project\Grade Calculater\Grade Calculater\obj\Debug\net6.0-windows\Grade Calculater.genruntimeconfig.cache
+D:\.HND\1st Sem\++Subjects\Visual Application Programming\Projects\Project\Grade Calculater\Grade Calculater\obj\Debug\net6.0-windows\ref\Grade Calculater.dll
